@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FakeChatApp", "FakeChatApp\FakeChatApp.csproj", "{27EB13FD-B669-4952-B8CD-453AFBEBDB71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27EB13FD-B669-4952-B8CD-453AFBEBDB71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27EB13FD-B669-4952-B8CD-453AFBEBDB71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27EB13FD-B669-4952-B8CD-453AFBEBDB71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27EB13FD-B669-4952-B8CD-453AFBEBDB71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {320FCD03-9751-49FA-9D65-41A93494B5E9}
+	EndGlobalSection
+EndGlobal
